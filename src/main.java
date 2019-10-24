@@ -6,5 +6,7 @@ public class main {
             System.out.printf("Hello Git");
         }
 
+        System.out.println("test brench");
+
     }
 }
