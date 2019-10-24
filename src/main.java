@@ -3,7 +3,7 @@ public class main {
 
         for (int i=0;i<10;i++){
 
-            System.out.printf("Hello Git");
+            System.out.printf("Hello Git2");
         }
 
     }
